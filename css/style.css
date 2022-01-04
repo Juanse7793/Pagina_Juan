@@ -16,6 +16,7 @@ body {
   height: 100%;
   border-right: solid;
   border-color: rgba(0, 22, 22, 0.4);
+  background-color: rgb(177, 236, 241);
 }
 
 header {
@@ -125,4 +126,19 @@ code {
     padding-right: 45px;
     min-width: 233px;
   }
+}
+
+p{
+  text-align: justify;
+}
+
+img{
+  justify-content: center;
+  width: 700px;
+  height: fit-content;
+}
+#peque{
+  width: 500px;
+  height: fit-content;
+
 }
